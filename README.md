@@ -9,7 +9,7 @@
 	* ES6 Classes
 	* import/export
 	* JSX
-  * this.props
+	* this.props
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
