@@ -15,7 +15,7 @@
 2. Fork and clone this repo.  When you need to commit use the following commands.
 		
 	* Run: `npm install -g create-react-app`
-	* Create a boilerplate React app called Profile. `create-react-app Profile`
+	* Create a boilerplate React app called Profile. `create-react-app profile`
 	* Navigate into /Profile and run the command: `npm start`
 	* Your `<App />` component will render a `<NavBar />` and a `<Body />` component.
 	* Create a file called `NavBar.js` and a file called `Body.js`
